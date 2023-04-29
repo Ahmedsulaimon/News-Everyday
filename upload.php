@@ -12,7 +12,7 @@ if (isset($_POST["submit"]) && isset($_FILES['file'])) {
 
 	//$target_dir = 'images/';
 	// Remove the line below, as it overwrites the previous line
-     $target_dir = 'C:\\xampp\\images\\'; //to specify the directory 
+     $target_dir = 'C:\\xampp\\web-images\\'; //to specify the directory 
     $target_file = $target_dir . basename($_FILES["file"]["name"]);
     $uploadOk = 1;
     // Use the file extension to check if the file is an image

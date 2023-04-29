@@ -1,6 +1,6 @@
 <?php
 
-$file = 'C:\\xampp\\images\\' . $_GET['id'] . '.jpg';
+$file = 'C:\\xampp\\web-images\\' . $_GET['id'] . '.jpg';
 
 // HERE YOU CHECK IF THE USER HAS ACCESS TO THIS FILE
 // FOR EXAMPLE
