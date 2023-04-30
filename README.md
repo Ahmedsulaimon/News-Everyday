@@ -4,7 +4,7 @@ install xampp and start apache,
 
 download DBbrowser for sqlite,
 
-add the "web-image" folder to xampp folder to match this path (c:/xampp/web-image),
+add the "web-images" folder to xampp folder to match this path (c:/xampp/web-images),
 
 add the "newsapplication" folder to the htdocs folder inside xampp folder,
 
